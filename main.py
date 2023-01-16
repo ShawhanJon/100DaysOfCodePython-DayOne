@@ -1,6 +1,6 @@
 #1. Create a greeting for the program. Change to Business Name Generator.
 
-print("Hello World(or you)!\n\nWelcome to the Business Name Generator.\nTwo simple questions to get your Band name!\n")
+print("Hello World(or you)!\n\nWelcome to the Business Name Generator.\nTwo simple questions to get your Business name!\n")
 
 #2. Ask the user for the city they grew up in. Changed to favorite city.
 
